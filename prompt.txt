@@ -1,0 +1,23 @@
+Write the single sentence a house cat would say in the five seconds after
+sweeping a glass off the table -- at most 200 characters, in the cat's own
+voice. No apology and no confession, just the most convincing case a cat can
+make for itself.
+
+The line must:
+- be exactly ONE sentence, ONE line, at most 200 characters;
+- sound like a cat's own logic, self-interest and total lack of remorse,
+  never like a person apologising;
+- land a FRESH comic idea -- avoid the obvious gravity, slippery-edge and
+  it-was-already-falling lines entirely;
+- fit five seconds: a spoken line a cat could plausibly deliver, not a
+  written paragraph of reasoning;
+- use every character well, with no padding or repeated joke.
+
+Angles to prefer: the glass was at fault (it was empty, it was in the cat's
+spot, it insulted the cat first), the cat as territorial owner of the table,
+the cat as an official conducting business. The cat is arrogant, calm, and
+convinced it did the right thing.
+
+Deliverables in this repo: entry.txt holds the final line; main.py (stdlib
+only, deterministic) prints it exactly and validates the gate with --check;
+CANDIDATES.md holds ten candidate lines with the reasoning for the final pick.
